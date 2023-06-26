@@ -61,7 +61,8 @@ While this analysis project utilized an artificial set of limited product data f
 - Region Sold
 - Market / Vendor Sold
 - Monthly, Quarterly, Yearly trends on several factors
-- etc. 
+- etc.
+  
 Which can help bring better insight into the business's trends. These sorts of data can help the team focus on a variety of different future goals, from marketability approaches for products that need a little more push- to predicting product sales and thus, the optimization of stock availability, which is crucial when working with live and perishable products.
 Further analytic steps would veer into utilizing machine learning for accurate predictions. 
 
