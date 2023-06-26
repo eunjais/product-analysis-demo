@@ -26,6 +26,7 @@ S4- Total revenue from product 4
 1. Basic Setup, Data Clean
 2. EDA
 3. Observations
+4. Applications and further analysis
    
 ### Basic Setup - importing library and dataset
 1. import library and dataset
@@ -54,5 +55,14 @@ S4- Total revenue from product 4
 The barchart for Total Unit Sales by Year indicates that, ranking from highest sales to lowest, P1 sold the most throughout the decade with record numbers on 2014. Following P1 is P3, P2, and P4 at the lowest units sold.
 
 However, the chart for Total Revenue by Year indiciates that the highst revenue was brought by P3, followed by P2, P1, and P4. A cursory calaculation provided insights that there were no correlations between the unit prices of products and revenue (P3 had the second lowest price per unit, respectively). This may be reflective of the product's high popularity compared to the rest of the stock. 
+
+### Applications + Further Analysis
+While this analysis project utilized an artificial set of limited product data for basic EDA, real life applications will be far more dynamic and varied. More factors to consider include but are not limited to:
+- Region Sold
+- Market / Vendor Sold
+- Monthly, Quarterly, Yearly trends on several factors
+- etc. 
+Which can help bring better insight into the business's trends. These sorts of data can help the team focus on a variety of different future goals, from marketability approaches for products that need a little more push- to predicting product sales and thus, the optimization of stock availability, which is crucial when working with live and perishable products.
+Further analytic steps would veer into utilizing machine learning for accurate predictions. 
 
 Similarly, P1 and P2 brought in similar revenues for each year. P1, despite being the most sold per unit, brought in the second lowest revenue per year, calling for potential reconsideration of its pricing.
