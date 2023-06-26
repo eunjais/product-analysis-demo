@@ -8,15 +8,15 @@ They have been selling FOUR PRODUCTS for OVER TEN YEARS.
 The products are P1, P2, P3 and P4.
 They have collected data from their retail centers and organized it into a small csv file:
 
-Q1- Total unit sales of product 1
-Q2- Total unit sales of product 2
-Q3- Total unit sales of product 3
-Q4- Total unit sales of product 4
+- Q1- Total unit sales of product 1
+- Q2- Total unit sales of product 2
+- Q3- Total unit sales of product 3
+- Q4- Total unit sales of product 4
 
-S1- Total revenue from product 1
-S2- Total revenue from product 2
-S3- Total revenue from product 3
-S4- Total revenue from product 4
+- S1- Total revenue from product 1
+- S2- Total revenue from product 2
+- S3- Total revenue from product 3
+- S4- Total revenue from product 4
 
 #### Some questions we ask:
 1. What are the general trends of unit sales and revenue by year / by product?
